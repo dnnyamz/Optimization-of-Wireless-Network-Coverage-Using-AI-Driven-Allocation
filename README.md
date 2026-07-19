@@ -30,11 +30,3 @@ Evaluation across consecutive test cycles proves that the AI model secures consi
 * `network_data_visualization.py` - Script responsible for generating the analytical line graphs.
 * `Ping_Before_AI.txt` / `Ping_After_AI.txt` - Raw network log files used for validation.
 
----
-
-## Setup and Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/dnnyamz/your-repo-name.git](https://github.com/dnnyamz/your-repo-name.git)
-   cd your-repo-name
